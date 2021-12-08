@@ -1,5 +1,0 @@
-RewriteEngine on
-CheckSpelling on
-
-#RewriteCond %{REQUEST_URI} wp-comments-post
-#RewriteRule .* %{HTTP_REFERRER} [L]

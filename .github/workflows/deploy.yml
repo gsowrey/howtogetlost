@@ -1,0 +1,23 @@
+# deploy.yml
+name: Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Deploy
+    strategy:
+      matrix:
+        node-version: [10.x]
+
+    steps:
+      - uses: actions/checkout@master
+      - name: Build site
+      - name: Publish
+        uses: cloudflare/wrangler-action@1.1.0
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
