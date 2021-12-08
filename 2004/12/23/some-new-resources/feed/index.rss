@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Some new resources!</title>
+	<atom:link href="https://howtogetlost.com/2004/12/23/some-new-resources/feed/" rel="self" type="application/rss+xml" />
+	<link>https://howtogetlost.com/2004/12/23/some-new-resources/</link>
+	<description>She Said, He Said</description>
+	<lastBuildDate>Sun, 07 Aug 2011 19:40:14 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: amy</title>
+		<link>https://howtogetlost.com/2004/12/23/some-new-resources/#comment-10</link>
+		<dc:creator><![CDATA[amy]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.howtogetlost.com/?p=6#comment-10</guid>
+		<description><![CDATA[Hey, that&#039;s cool.Trip-related goodies from my parents include some more 
+packing organizers (*drool*) and traveller&#039;s tales China and Hong Kong. 
+
+
+
+---]]></description>
+		<content:encoded><![CDATA[<p>Hey, that&#8217;s cool.Trip-related goodies from my parents include some more<br />
+packing organizers (*drool*) and traveller&#8217;s tales China and Hong Kong. </p>
+<p>&#8212;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

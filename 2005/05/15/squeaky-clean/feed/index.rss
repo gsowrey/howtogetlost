@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Squeaky clean</title>
+	<atom:link href="https://howtogetlost.com/2005/05/15/squeaky-clean/feed/" rel="self" type="application/rss+xml" />
+	<link>https://howtogetlost.com/2005/05/15/squeaky-clean/</link>
+	<description>She Said, He Said</description>
+	<lastBuildDate>Sun, 07 Aug 2011 19:40:14 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Luke</title>
+		<link>https://howtogetlost.com/2005/05/15/squeaky-clean/#comment-28</link>
+		<dc:creator><![CDATA[Luke]]></dc:creator>
+		<pubDate>Thu, 19 May 2005 04:24:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.howtogetlost.com/2005/05/15/squeaky-clean/#comment-28</guid>
+		<description><![CDATA[That looks so very tasty.
+
+I am hungry. Maybe I will join you in Russia, where the sushi is fine.
+
+Unlike Edmonton.]]></description>
+		<content:encoded><![CDATA[<p>That looks so very tasty.</p>
+<p>I am hungry. Maybe I will join you in Russia, where the sushi is fine.</p>
+<p>Unlike Edmonton.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

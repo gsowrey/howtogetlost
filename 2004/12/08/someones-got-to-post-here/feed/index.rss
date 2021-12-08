@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Someone&#8217;s got to post here</title>
+	<atom:link href="https://howtogetlost.com/2004/12/08/someones-got-to-post-here/feed/" rel="self" type="application/rss+xml" />
+	<link>https://howtogetlost.com/2004/12/08/someones-got-to-post-here/</link>
+	<description>She Said, He Said</description>
+	<lastBuildDate>Sun, 07 Aug 2011 19:40:14 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Geoff</title>
+		<link>https://howtogetlost.com/2004/12/08/someones-got-to-post-here/#comment-4</link>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.howtogetlost.com/?p=4#comment-4</guid>
+		<description><![CDATA[*sigh*
+
+We need more content on this goofy site. We need maps. We need schedules 
+and itineraries. We need ... stuff!
+
+And we need a design (&#039;cuz damn, it looks like crap). But that&#039;s another 
+issue...]]></description>
+		<content:encoded><![CDATA[<p>*sigh*</p>
+<p>We need more content on this goofy site. We need maps. We need schedules<br />
+and itineraries. We need &#8230; stuff!</p>
+<p>And we need a design (&#8216;cuz damn, it looks like crap). But that&#8217;s another<br />
+issue&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: amy</title>
+		<link>https://howtogetlost.com/2004/12/08/someones-got-to-post-here/#comment-5</link>
+		<dc:creator><![CDATA[amy]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.howtogetlost.com/?p=4#comment-5</guid>
+		<description><![CDATA[Yeah yeah yeah, and we need the time to put it all together. 
+]]></description>
+		<content:encoded><![CDATA[<p>Yeah yeah yeah, and we need the time to put it all together. </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
