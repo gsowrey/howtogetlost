@@ -1,0 +1,10 @@
+name = "howtogetlost"
+type = "webpack"
+account_id = '47b3a8a803ffc006dcf7b70a3a435dfc'
+route = ''
+zone_id = '850d7b63e35ef25ebdf24151bbf75928'
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./public",entry-point = "workers-site"}
+compatibility_date = "2021-12-08"
